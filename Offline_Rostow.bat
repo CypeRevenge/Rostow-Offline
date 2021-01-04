@@ -1,0 +1,1 @@
+DayZDiag_x64.exe -window -nopause -mod=@Rostow -mission=.\Missions\Offline.rostow
